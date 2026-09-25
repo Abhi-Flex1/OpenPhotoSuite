@@ -1,0 +1,9 @@
+.hvigor/
+oh_modules/
+build/
+entry/build/
+local.properties
+dist/
+*.hap
+*.log
+.local-signing/

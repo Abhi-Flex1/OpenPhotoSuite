@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_test_desc",
+      "value": "PhotoSuite editor tests"
+    },
+    {
+      "name": "TestAbility_desc",
+      "value": "PhotoSuite editor test ability"
+    },
+    {
+      "name": "TestAbility_label",
+      "value": "PhotoSuite tests"
+    }
+  ]
+}

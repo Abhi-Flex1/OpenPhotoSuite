@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_desc",
+      "value": "PhotoSuite native image editor"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PhotoSuite"
+    },
+    {
+      "name": "module_desc",
+      "value": "PhotoSuite editor"
+    }
+  ]
+}

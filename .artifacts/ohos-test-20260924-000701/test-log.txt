@@ -1,0 +1,240 @@
+09-24 06:07:06.864  5988  6040 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:06.873 15267 15267 I A00000/moduleframework: getStringByNameSync error: {"code":"9001003"}
+09-24 06:07:06.883 15267 15267 I A00000/moduleframework: getStringByNameSync error: {"code":"9001003"}
+09-24 06:07:06.901 15267 15267 I A00000/moduleframework: getStringByNameSync error: {"code":"9001003"}
+09-24 06:07:06.902 15267 15267 I A00000/moduleframework: getConfigInstance full path:@normalized:N&appAssist4Developer&&@hw-ae-business/app-assist-4-developer/src/main/ets/impl/event/AppAssistInstallPackageEvent&
+09-24 06:07:06.906 15267 15267 I A00000/moduleframework: getConfigInstance clazzName:AppAssistInstallPackageEvent
+09-24 06:07:06.924 15267 15267 I A00000/moduleframework: getConfigInstance import:AppAssistInstallPackageEvent
+09-24 06:07:06.938   347   436 I C01f0b/ConnCure: [a92ab14d869968d, 2d34268, 7e0e6] cachedPackageName_: com.openphotosuite.editor
+09-24 06:07:06.938   347   436 E C01f04/TelephonySubsystem: [a92ab14d869968d, 2d34268, 7e0e6] GetSimAccountInfo fail!
+09-24 06:07:06.938   347   436 E C01f04/MultiSimontroller: [a92ab14d869968d, 2d34268, 7e0e6] failed by nullptr
+09-24 06:07:06.938   347   436 I C01f0b/ConnCure: [a92ab14d869968d, 2d34268, 7e0e6] IsTestSimCard: -1, 
+09-24 06:07:06.938   347   436 E C01f0b/ConnCure: [a92ab14d869968d, 2d34268, 7e0e6] getSimOperator error
+09-24 06:07:06.938   347   436 E C01f04/MultiSimontroller: [a92ab14d869968d, 2d34268, 7e0e6] failed by nullptr
+09-24 06:07:06.939 15267 15267 W C03f01/NAPI: [AddCleanupHook] AddCleanupHook Failed, data cannot register multiple times, enable cross-thread check for more information.
+09-24 06:07:06.940 15267 15829 E C01650/Config: Log:Error(1) errno is:25 no such table: app***fos in "SELECT * FROM app***fos".
+09-24 06:07:06.940 15267 15829 E C01650/SqliteUtils: CompareTableFileContent:compare File open failed errno 2 /***/el2/***/app***are
+09-24 06:07:06.940 15267 15829 E C01650/SqliteStatement: PrintInfoForDbError:DbError errCode:27394103 errno:2 DbName: app***.db 
+09-24 06:07:06.972   736  1284 I C05a02/PRIVACY: [MergeOrInsertRecord]Add record, id 537771112, op 34, status: 2, sucCnt: 1, failCnt: 0, lockScreenStatus 1, timestamp 1790201226967, type 0.
+09-24 06:07:06.981 15267 15835 W C03f04/MMG: [NMM:1267] First: failed /system/lib64/module/hms/security/libcodeprotect.z.so not exist.Second: failed /system/lib64/module/hms/security/libcodeprotect_napi.z.so not exist.load /system/etc/abc/security/codeprotect.abc failed
+09-24 06:07:06.983  5988  6040 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:07.133  5988  6040 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:07.272  2340  2343 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:07.284  5988  6040 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:07.452  5988  6040 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:07.454   135  2025 E C01650/SilentProxy: IsSupportSilentFromService:GetRdbService failed, err is 27394049.
+09-24 06:07:07.625  6043  7770 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:07.625   135  2025 W C02d33/HitraceDumpExecutor: GetCacheTraceFiles: failed to continue cache trace loop.
+09-24 06:07:07.626   135  2025 I C02d10/UCollectUtil-TraceCollector: HandleTrace: src:/data/log/hitrace/trace_20260924060704@1436-1596.sys, dir:/data/log/hiview/unified_collection/trace/share/APP_com.openphotosuite.editor_5988_20260924060705_20260924060707_2120.sys
+09-24 06:07:07.634   135  2025 I C02d10/UCollectUtil-TraceCollector: DumpAppTrace: pid:5988 ret:0 file:/data/log/hiview/unified_collection/trace/share/APP_com.openphotosuite.editor_5988_20260924060705_20260924060707_2120.sys
+09-24 06:07:08.089  2714  2862 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:08.134  1460  1476 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:08.194 15844 15844 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15844 2000 2000] failed
+09-24 06:07:08.195 15844 15844 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15844 2000 2000] failed
+09-24 06:07:08.195 15844 15844 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:08.225 15844 15844 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15844 2000 2000] failed
+09-24 06:07:08.225 15844 15844 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15844 2000 2000] failed
+09-24 06:07:08.225 15844 15844 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:08.472   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15191 to group 10 failed, ret=-1!
+09-24 06:07:08.473   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15191 to group 10 failed, ret=-1!
+09-24 06:07:08.473   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15383 to group 9 failed, ret=-1!
+09-24 06:07:08.473   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15383 to group 9 failed, ret=-1!
+09-24 06:07:08.473   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15422 to group 9 failed, ret=-1!
+09-24 06:07:08.473   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15422 to group 9 failed, ret=-1!
+09-24 06:07:08.473   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15464 to group 9 failed, ret=-1!
+09-24 06:07:08.473   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15464 to group 9 failed, ret=-1!
+09-24 06:07:08.484   273   315 E C02801/MMIService: [a92abd4d875dd17] [|3445]Check pid failed, input pid:15191, but checking pid:314
+09-24 06:07:08.485   273   315 E C02801/MMIService: [a92abd4d875dd17] [|979]Check pid permission failed
+09-24 06:07:08.490   314 15080 E C02801/MultimodalInputConnect: [a92abd4d875dd17] Read result failed, code is: 12.
+09-24 06:07:08.491   314 15080 E C02800/InputManagerImpl: [a92abd4d875dd17] [|2471]Set napStatus failed, ret:-1
+09-24 06:07:08.494   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15383 to group 10 failed, ret=-1!
+09-24 06:07:08.494   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15383 to group 10 failed, ret=-1!
+09-24 06:07:08.501   273   315 E C02801/MMIService: [a92abd4d875dd17] [|3445]Check pid failed, input pid:15383, but checking pid:314
+09-24 06:07:08.501   273   315 E C02801/MMIService: [a92abd4d875dd17] [|979]Check pid permission failed
+09-24 06:07:08.511   314 15080 E C02801/MultimodalInputConnect: [a92abd4d875dd17] Read result failed, code is: 12.
+09-24 06:07:08.511   314 15080 E C02800/InputManagerImpl: [a92abd4d875dd17] [|2471]Set napStatus failed, ret:-1
+09-24 06:07:08.512   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15422 to group 10 failed, ret=-1!
+09-24 06:07:08.512   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15422 to group 10 failed, ret=-1!
+09-24 06:07:08.515   273   315 E C02801/MMIService: [a92abd4d875dd17] [|3445]Check pid failed, input pid:15422, but checking pid:314
+09-24 06:07:08.515   273   315 E C02801/MMIService: [a92abd4d875dd17] [|979]Check pid permission failed
+09-24 06:07:08.516   314 15080 E C02801/MultimodalInputConnect: [a92abd4d875dd17] Read result failed, code is: 12.
+09-24 06:07:08.516   314 15080 E C02800/InputManagerImpl: [a92abd4d875dd17] [|2471]Set napStatus failed, ret:-1
+09-24 06:07:08.518   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15464 to group 10 failed, ret=-1!
+09-24 06:07:08.520   314 15080 E C01702/CgroupAdjuster: [a92abd4d875dd17] ApplyProcessGroup set 15464 to group 10 failed, ret=-1!
+09-24 06:07:08.521   273   315 E C02801/MMIService: [a92abd4d875dd17] [|3445]Check pid failed, input pid:15464, but checking pid:314
+09-24 06:07:08.521   273   315 E C02801/MMIService: [a92abd4d875dd17] [|979]Check pid permission failed
+09-24 06:07:08.521   314 15080 E C02801/MultimodalInputConnect: [a92abd4d875dd17] Read result failed, code is: 12.
+09-24 06:07:08.521   314 15080 E C02800/InputManagerImpl: [a92abd4d875dd17] [|2471]Set napStatus failed, ret:-1
+09-24 06:07:08.683  1299  1312 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:08.688  1256  1287 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:08.705 15847 15847 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15847 2000 2000] failed
+09-24 06:07:08.705 15847 15847 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15847 2000 2000] failed
+09-24 06:07:08.705 15847 15847 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:08.727 15849 15849 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15849 2000 2000] failed
+09-24 06:07:08.728 15849 15849 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15849 2000 2000] failed
+09-24 06:07:08.728 15849 15849 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:08.729 15850 15850 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15850 2000 2000] failed
+09-24 06:07:08.729 15850 15850 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15850 2000 2000] failed
+09-24 06:07:08.729 15850 15850 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:08.729 15851 15851 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15851 2000 2000] failed
+09-24 06:07:08.729 15851 15851 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15851 2000 2000] failed
+09-24 06:07:08.729 15851 15851 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:08.748 15852 15852 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15852 2000 2000] failed
+09-24 06:07:08.752 15852 15852 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15852 2000 2000] failed
+09-24 06:07:08.752 15852 15852 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:08.755 15853 15853 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15853 2000 2000] failed
+09-24 06:07:08.755 15853 15853 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15853 2000 2000] failed
+09-24 06:07:08.755 15853 15853 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:08.785   814  1078 E C01342/ServiceExt: [a92abd4d8cbaf05, 32fc2e, 0] [ABMS5921]generate request error
+09-24 06:07:08.787   516 15480 E C02300/FenceExtension: [(DoConnect:153)]CONNECT_ABILITY_FAILED,ret:2097152
+09-24 06:07:08.788  1326  1346 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:08.801   814  1078 E C01342/ServiceExt: [a92abe4d8cc0381, 371c2ca, 0] [ABMS5921]generate request error
+09-24 06:07:08.802   516 15480 E C02300/FenceExtension: [(DoConnect:153)]CONNECT_ABILITY_FAILED,ret:2097152
+09-24 06:07:08.802   516 15480 W C02300/FenceExtension: connect failed,retry again
+09-24 06:07:09.032  5988  6040 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:09.253  1507  1529 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:09.268  1460  1476 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:09.421 15856 15856 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15856 2000 2000] failed
+09-24 06:07:09.421 15856 15856 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15856 2000 2000] failed
+09-24 06:07:09.421 15856 15856 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:09.430 15858 15858 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15858 2000 2000] failed
+09-24 06:07:09.430 15858 15858 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15858 2000 2000] failed
+09-24 06:07:09.430 15858 15858 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:09.439 15859 15859 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15859 2000 2000] failed
+09-24 06:07:09.439 15859 15859 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15859 2000 2000] failed
+09-24 06:07:09.439 15859 15859 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:09.473 15191 15244 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:09.542  1606  1634 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:10.627  6043  7770 E C02d06/XCollie: Failed to open file: /sys/power/last_sr
+09-24 06:07:10.713 15861 15861 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15861 2000 2000] failed
+09-24 06:07:10.713 15861 15861 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15861 2000 2000] failed
+09-24 06:07:10.713 15861 15861 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:10.722 15861 15861 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15861 2000 2000] failed
+09-24 06:07:10.722 15861 15861 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15861 2000 2000] failed
+09-24 06:07:10.722 15861 15861 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:10.936 15864 15864 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15864 2000 2000] failed
+09-24 06:07:10.936 15864 15864 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15864 2000 2000] failed
+09-24 06:07:10.936 15864 15864 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:10.948   628   863 W C02943/ThermalHdi: Read node failed, title = brightness
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.949   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = 
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = ambient
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = ibat
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = vbat
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu0_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu0_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu0_max_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu1_max_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu1_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu1_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu2_max_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu2_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu2_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu3_max_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu3_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu3_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu4_max_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu4_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu4_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu5_max_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu5_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu5_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu6_max_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu6_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu6_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu7_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu7_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu7_max_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu8_min_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu8_cur_freq
+09-24 06:07:10.950   628   863 W C02943/ThermalHdi: Read node failed, title = cpu8_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu9_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu9_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu9_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu10_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu10_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu10_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu11_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu11_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu11_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu12_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu12_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu12_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu13_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu13_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu13_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu14_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu14_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu14_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu15_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu15_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu15_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu16_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu16_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu16_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu17_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu17_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu17_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu18_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu18_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu18_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu19_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu19_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = cpu19_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = gpu_min_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = gpu_cur_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = gpu_max_freq
+09-24 06:07:10.951   628   863 W C02943/ThermalHdi: Read node failed, title = ddr_cur_freq
+09-24 06:07:10.952   628   863 W C02943/ThermalHdi: get node failed
+09-24 06:07:10.952   628   863 W C02943/ThermalHdi: get node failed
+09-24 06:07:10.952   628   863 W C02943/ThermalHdi: get node failed
+09-24 06:07:10.952   628   863 W C02943/ThermalHdi: get node failed
+09-24 06:07:11.024 15870 15870 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15870 2000 2000] failed
+09-24 06:07:11.024 15870 15870 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15870 2000 2000] failed
+09-24 06:07:11.024 15870 15870 W C02c02/PARAM: SystemReadParam failed!name is:persist.init.debug.loglevel,err:1002
+09-24 06:07:11.027 15870 15870 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15870 2000 2000] failed
+09-24 06:07:11.027 15870 15870 W C02c02/PARAM: Selinux check name persist.init.debug.loglevel in u:object_r:startup_init_param:s0 [15870 2000 2000] failed

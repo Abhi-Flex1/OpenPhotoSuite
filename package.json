@@ -1,0 +1,12 @@
+{
+  "name": "open-photo-suite",
+  "version": "1.0.0",
+  "ohos": {
+    "org": "openphotosuite",
+    "buildTool": "hvigor",
+    "directoryLevel": "project"
+  },
+  "description": "Native HarmonyOS PC and tablet port of PhotoSuite.",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

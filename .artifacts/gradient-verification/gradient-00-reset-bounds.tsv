@@ -1,0 +1,8 @@
+export-image-button	[2214,433][2350,505]	true
+undo-button	[2373,433][2445,505]	false
+redo-button	[2468,433][2540,505]	false
+tool-g	[589,1048][669,1128]	true
+document-artboard	[829,745][1970,1544]	true
+sidebar-tab-properties	[2032,604][2159,686]	true
+sidebar-tab-layers	[2159,604][2287,686]	true
+sidebar-tab-history	[2287,604][2414,686]	true

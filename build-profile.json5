@@ -1,0 +1,71 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "openharmonyTest",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": ".local-signing/OpenHarmony.p12",
+          "storePassword": "00000016fc55630c8f899ec58cb28a157e6de13dcba424e6e4a923412f3ba1e846ae6e050647",
+          "keyAlias": "openharmony application release",
+          "keyPassword": "00000016fc55630c8f899ec58cb28a157e6de13dcba424e6e4a923412f3ba1e846ae6e050647",
+          "signAlg": "SHA256withECDSA",
+          "profile": ".local-signing/profile.p7b",
+          "certpath": ".local-signing/app-chain.pem"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "compileSdkVersion": "6.1.1(24)",
+        "targetSdkVersion": "6.1.1(24)",
+        "compatibleSdkVersion": "6.1.1(24)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      },
+      {
+        "name": "test",
+        "signingConfig": "openharmonyTest",
+        "compileSdkVersion": "6.1.1(24)",
+        "targetSdkVersion": "6.1.1(24)",
+        "compatibleSdkVersion": "6.1.1(24)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+            "test"
+          ]
+        }
+      ]
+    }
+  ]
+}
