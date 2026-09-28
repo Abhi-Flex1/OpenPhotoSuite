@@ -1,0 +1,10 @@
+{
+  "name": "entry",
+  "version": "0.9.14",
+  "description": "PhotoSuite HarmonyOS entry module.",
+  "main": "",
+  "author": "OpenPhotoSuite contributors",
+  "license": "GPL-3.0-only",
+  "modelVersion": "5.0.0",
+  "dependencies": {}
+}

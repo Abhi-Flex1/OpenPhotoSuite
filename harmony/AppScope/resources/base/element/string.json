@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "PhotoSuite"
+    },
+    {
+      "name": "module_desc",
+      "value": "PhotoSuite editor"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "PhotoSuite entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PhotoSuite"
+    }
+  ]
+}

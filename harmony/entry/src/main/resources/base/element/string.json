@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "PhotoSuite editor"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "PhotoSuite entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PhotoSuite"
+    },
+    {
+      "name": "internet_reason",
+      "value": "PhotoSuite serves its own editor interface over a device-local address."
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-09-24 21:26:58.234  9165  9165 I A00a25/OpenPhotoSuiteFiles: export destination uri=file://docs/storage/Users/currentUser/Download/Beach-Study-edited.jpg
-09-24 21:26:58.234  9165  9165 I A00a25/OpenPhotoSuiteFiles: export destination selected bytes=5182
-09-24 21:26:58.265  9165  9165 I A00a25/OpenPhotoSuiteFiles: export written bytes=5182
-09-24 21:26:58.284  9165  9165 I A00a25/OpenPhotoSuiteFiles: export file bytes=5182 decoded width=105 height=150 pixelBytes=63000 checksum=3449000571

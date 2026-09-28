@@ -1,0 +1,11 @@
+{
+  "name": "photosuite-harmony",
+  "version": "0.9.14",
+  "description": "HarmonyOS platform shell for PhotoSuite.",
+  "main": "",
+  "author": "OpenPhotoSuite contributors",
+  "license": "GPL-3.0-only",
+  "modelVersion": "5.0.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
